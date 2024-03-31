@@ -1,1 +1,2 @@
 # predicting-adverse-events-of-re-operative-bleeding-in-patients
+the dataset comprises of both static data and the timeseries data, where the static data has been modeled through dense NN, time series data has been modeled through LSTMs, and both the layers were concatenated to make a single prediction, it's a binary outcome that predicts if the patients require re-operation due to the bleeding in the chest area of cardiac tamponade.
